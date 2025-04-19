@@ -10,6 +10,7 @@
 
 * [_MongoDB Complete Guide_](./books/database/MongoDB/MongoDB%20Complete%20Guide%20Develop%20Strong%20Understanding%20of%20Administering%20MongoDB,%20CRUD%20Operations,%20MongoDB%20Commands,%20MongoDB...%20(Manu%20Sharma)%20(Z-Library).epub)
 * [_MongoDB in Action_](./books/database/MongoDB/MongoDB%20in%20Action%20Covers%20MongoDB%20version%203.0%20(Kyle%20Banker,%20Peter%20Bakkum,%20Shaun%20Verch%20etc.)%20(Z-Library).pdf)
+* [_MongoDB: THe Definitive Guide_](./books/database/MongoDB/MongoDB%20The%20Definitive%20Guide%20Powerful%20and%20Scalable%20Data%20Storage%203rd%20Edition%20(%20etc.)%20(Z-Library).pdf)
 
 ## [Data Visualization](/books/data-visualization/)
 
