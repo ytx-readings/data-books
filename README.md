@@ -16,3 +16,4 @@
 
 * [_Fundamentals of Data Visualization_](./books/data-visualization/Fundamentals_of_Data_Visualization.pdf)
 * [_Handbook of Data Visualization_](./books/data-visualization/Handbook_of_Data_Visualization.pdf)
+* [_Storytelling with Data_](./books/data-visualization/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
